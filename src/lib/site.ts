@@ -1,9 +1,9 @@
 import { Metadata } from "next";
 
 export const siteConfig = {
-  name: "GramGrabberz",
+  name: "Nextup-Studio",
   domain: "gram-grabberz.vercel.com",
-  shortName: "GramGrabberz",
+  shortName: "Nextup-Studio",
   creator: "riad-azz",
   description:
     "Fast, free, and no login required. Just paste the URL and download.",
