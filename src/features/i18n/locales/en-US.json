@@ -118,7 +118,35 @@
       "frequentlyAsked": {
         "badge": "Got Questions?",
         "title": "Frequently Asked Questions",
-        "description": "Find answers to common questions about our Instagram video downloader"
+        "description": "Find answers to common questions about our Instagram video downloader",
+        "sections": {
+          "general": {
+            "title": "General Questions",
+            "q1": {
+              "trigger": "Is Nextup Studio free to use?",
+              "content": "Yes, Nextup Studio is 100% free with no hidden charges or limits."
+            },
+            "q2": {
+              "trigger": "Do I need to sign up or register?",
+              "content": "No registration is required. You can use all features instantly."
+            },
+            "q3": {
+              "trigger": "Is it safe to use this service?",
+              "content": "Absolutely! We do not store any personal data or Instagram credentials."
+            }
+          },
+          "technical": {
+            "title": "Technical Questions",
+            "q1": {
+              "trigger": "What video quality can I download?",
+              "content": "You can download videos in the highest available resolution (HD, if available)."
+            },
+            "q2": {
+              "trigger": "Does this work with all Instagram posts and reels?",
+              "content": "Yes, you can download public videos and reels using Nextup Studio."
+            }
+          }
+        }
       }
     }
   }
