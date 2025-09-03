@@ -17,7 +17,10 @@ const geistSans = RootFont({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = siteMetadata;
+export const metadata: Metadata = {
+  title: 'Nextup Studio',
+  description: 'Instagram Video Downloader by Nextup Studio',
+};
 
 export default async function RootLayout({
   children,
